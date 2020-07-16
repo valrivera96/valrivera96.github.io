@@ -1,3 +1,7 @@
+body {
+    background-color: #858283;
+}
+
 h2 {
     color: black;
 }
@@ -13,7 +17,7 @@ h2 {
 }
 
 #header {
-    background-color: orange;
+    background-color: #D96011;
 }
 
 #header h1 {
@@ -64,7 +68,7 @@ h2 {
 }
 
 #main {
-    background-color: lightgrey;
+    background-color: whitesmoke;
     text-align: center;
 }
 
@@ -90,4 +94,5 @@ h2 {
 }
 #footer {
     height: 100px;
+    background-color: #D96011;
 }
